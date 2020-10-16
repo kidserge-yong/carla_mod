@@ -7,8 +7,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-#### Base version 9.10.0
-Please download base version and carla engine on [CARLA 0.10.5 (development)](https://carla-releases.s3.eu-west-3.amazonaws.com/Windows/CARLA_0.9.10.zip)
+#### Base version 0.9.10
+Please download base version and carla engine on [CARLA 0.9.10 (development)](https://carla-releases.s3.eu-west-3.amazonaws.com/Windows/CARLA_0.9.10.zip)
 
 #### This project only support python 3.7, if you need other version please following [Carla Github](https://github.com/carla-simulator/carla) instrution to build your own python or other language support API
 
